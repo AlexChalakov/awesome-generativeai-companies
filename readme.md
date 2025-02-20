@@ -80,6 +80,7 @@ Fundraised $5MM according to [Crunchbase](https://www.crunchbase.com/organizatio
 - [Autobound](https://www.autobound.ai) - Autobound generates highly personalized sales emails and email openers in a single click, based on news events, job changes, shared experiences, and more.
 
 Fundraised around $5MM according to [Crunchbase](https://www.crunchbase.com/organization/autobound) and [DealRoom](https://app.dealroom.co/companies/autobound)
+- [PerchanceStory](https://www.perchancestory.com/) - PerchanceStory is an AI-based interactive story generator, which generates ever-changing story endings with endless possibilities based on simple user-provided input. 
 
 #### $16 - 40MM
 
